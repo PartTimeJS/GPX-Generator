@@ -4,6 +4,7 @@
 - Insert names (optional) into the names array. If you do not want names, delete the example.
 
 Requirements:
+- Install node.js
 - npm install moment
 - npm install fs
 
