@@ -1,0 +1,17 @@
+{
+  "JUMP_DELAY": "10",
+  "ALTERNATE_DELAYS": false,
+  "ALT_DELAY": "5",
+  "coordinates": [
+    "coord,coord",
+    "coord,coord",
+    "coord,coord",
+    "coord,coord"
+  ],
+  "names": [
+    "name",
+    "name",
+    "name",
+    "name"
+  ]
+}
