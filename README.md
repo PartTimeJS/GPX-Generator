@@ -9,3 +9,5 @@ Requirements:
 - npm install fs
 
 Run script: "node gpxcreate.js"
+
+Copy gpx information out of the console and paste into program/file of your choosing.
