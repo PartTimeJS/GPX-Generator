@@ -6,3 +6,5 @@
 Requirements:
 - npm install moment
 - npm install fs
+
+Run script: "node gpxcreate.js"
